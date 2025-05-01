@@ -5,7 +5,7 @@
  * This file handles the communication with the Visual Crossing Weather API
  * and implements caching to minimize API calls and improve performance.
  * 
- * Author: Dhruv Suthar & Pratham Patel
+ * Author: Pratham Patel
  * version 1.0.0
  */
 
