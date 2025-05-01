@@ -11,7 +11,7 @@
  * - Leaflet.js (for interactive maps)
  * - Font Awesome 6.4.0 (for icons)
  * 
- * Author: Dhruv Suthar & Pratham Patel
+ * Author: Pratham Patel
  * version 1.0.0
  */
 
